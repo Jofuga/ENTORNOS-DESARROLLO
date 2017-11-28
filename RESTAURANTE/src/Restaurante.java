@@ -30,7 +30,7 @@ public class Restaurante {
 		importetotal =  importe + impuesto;}
 		
 	//Imprimir resultado//	
-	System.out.println("Su cuenta tiene un importe total de " + importetotal + " incluyendo descuento del 10% e impuesto incluidos");
+	System.out.println("Su cuenta tiene un importe total de " + importetotal + " incluyendo descuento del 10% e impuesto incluidos.");
 	
 	}
 }
